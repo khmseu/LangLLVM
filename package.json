@@ -1,0 +1,12 @@
+{
+  "name": "LangLLVM",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "My language compiler",
+  "repository": "http://somewhere/someplace",
+  "author": "Kai Henningsen",
+  "dependencies": {
+    "llvm-node": "^2.1.0"
+  }
+}
