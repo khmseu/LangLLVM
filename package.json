@@ -1,12 +1,17 @@
 {
   "name": "LangLLVM",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.ts",
   "license": "MIT",
   "description": "My language compiler",
   "repository": "http://somewhere/someplace",
   "author": "Kai Henningsen",
   "dependencies": {
+    "@types/node": "^12.0.2",
     "llvm-node": "^2.1.0"
+  },
+  "devDependencies": {
+    "pegjs": "^0.10.0",
+    "typescript": "^3.4.5"
   }
 }
