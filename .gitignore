@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# mine
+*.bc
+*.s
+*.js
+*.map
+
+# added from UI
